@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+282cef4471d6f78bb9c46c2e0d3fefff990d258a refs/remotes/origin/all-contributors/add-abhishekashyap
+51648a6f23056db77149bfa91fbf9f74ed691b68 refs/remotes/origin/all-contributors/add-jaeyeonling
+5bed74f3f1024e2a572aed5544805b98f07e9eaf refs/remotes/origin/all-contributors/add-xzebra
+0af420c996688423ee3baadbff462295898febb4 refs/remotes/origin/authentication-github
+3490a2bb4e27218b07b932e633e3a6b0b3bfeb70 refs/remotes/origin/dependabot/npm_and_yarn/elliptic-6.5.3
+f485f719bc7c550a47604c606e51fb5a740c3387 refs/remotes/origin/dependabot/npm_and_yarn/http-proxy-1.18.1
+9403ac624bdb4bf906183da1ebd017aa87bdf370 refs/remotes/origin/dependabot/npm_and_yarn/markdown-to-jsx-6.11.4
+bf5e2d51a53d8989d14410ffe429842cb1aed9ce refs/remotes/origin/gh-pages
+f4e7ee64ef939ad203305d7c0b9b5c7286ff5e78 refs/remotes/origin/master
+22818d927130b0e37ff0245eb258de2475cd2878 refs/remotes/origin/pr/51
+079e86e4c3d16ff38d393e07b71552ed9aa951dc refs/remotes/origin/saadpasta-patch-1
+a702f78b7c4d2b48d85e92fd681fc1cb75623885 refs/tags/v1.0
