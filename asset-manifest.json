@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/manabitv/static/css/main.1520191e.chunk.css",
+    "main.js": "/manabitv/static/js/main.d95b6e79.chunk.js",
+    "main.js.map": "/manabitv/static/js/main.d95b6e79.chunk.js.map",
+    "runtime-main.js": "/manabitv/static/js/runtime-main.cc279470.js",
+    "runtime-main.js.map": "/manabitv/static/js/runtime-main.cc279470.js.map",
+    "static/js/2.2c0ba1df.chunk.js": "/manabitv/static/js/2.2c0ba1df.chunk.js",
+    "static/js/2.2c0ba1df.chunk.js.map": "/manabitv/static/js/2.2c0ba1df.chunk.js.map",
+    "index.html": "/manabitv/index.html",
+    "static/css/main.1520191e.chunk.css.map": "/manabitv/static/css/main.1520191e.chunk.css.map",
+    "static/js/2.2c0ba1df.chunk.js.LICENSE.txt": "/manabitv/static/js/2.2c0ba1df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc279470.js",
+    "static/js/2.2c0ba1df.chunk.js",
+    "static/css/main.1520191e.chunk.css",
+    "static/js/main.d95b6e79.chunk.js"
+  ]
+}
