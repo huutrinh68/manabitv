@@ -6,7 +6,7 @@ export const config = {
   githubUserName: "huutrinh68",
 
   // Your Github Repo Name Where You Have your issues as Blog
-  githubRepo: "huutrinh68.github.io",
+  githubRepo: "manabitv",
 
   // Set it to true if you have a Github app to add to this project
   // and fill the client ID & secret
