@@ -18,7 +18,7 @@ export const config = {
   title : "ManabiTV" ,
 
   // Your Personal Blog Subtitle
-  subtitle : "Software Developer",
+  subtitle : "Software Engineer Blog",
 
   // Header customization
   header: {
